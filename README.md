@@ -61,8 +61,6 @@
 ![image](https://user-images.githubusercontent.com/52392004/154210514-b453fd25-bd51-4fcc-8526-e25d614ab9c3.png)
 
 
-만약, Permission에 CloudWatch가 보이지 않으면 설정하여 주시기 바랍니다.
-
 7. [S3-event-trigger] - [Code]로 이동해 아래 코드를 붙여넣기를 하고, [Deploy]선택하여 Lambda에 코드를 반영합니다. 
 
 
