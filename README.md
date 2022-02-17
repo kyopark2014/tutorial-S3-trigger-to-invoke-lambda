@@ -1,4 +1,4 @@
-# tutorial-S3-trigger-to-invoke-lambda
+# Tutorial-S3-trigger-to-invoke-lambda
 
 이 문서에서는 S3에 파일 전송시 Lambda가 실행하여 파일정보를 전달하는 동작을 설명하겠습니다. 
 
