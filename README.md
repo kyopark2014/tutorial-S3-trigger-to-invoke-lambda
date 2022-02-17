@@ -145,6 +145,7 @@ https://s3.console.aws.amazon.com/s3/home?region=us-west-2
 ![image](https://user-images.githubusercontent.com/52392004/154202341-93520bce-9b5f-4883-becb-10e37f362bde.png)
 
 6. 다시 아래로 스크롤하여 [Destination]에서 [Lambda function]을 선택하고, function으로 이미 만들어놓은 "S3-event-trigger]를 선택한다음에 [Save changes]를 통해 event를 등록합니다. 
+![image](https://user-images.githubusercontent.com/52392004/154477821-7b01c66a-7d8c-4f36-94bb-5a437ceb2fe8.png)
 
 7. [Amazon S3] - [simple-file-store] - [Objects]의 [Upload]를 선택하여 파일을 업로드 합니다.
 
